@@ -18,5 +18,5 @@ cd ..
 cd public
 git init
 git add .
-git commit -m "Deploy to Buiild branch"
+git commit -m "Deploy to Build branch"
 git push --force "https://${GH_TOKEN}@github.com/${GITHUB_REPO}.git" master:build > /dev/null 2>&1
