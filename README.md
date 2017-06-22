@@ -1,5 +1,5 @@
 # latex-cv
-[![Build Status](https://travis-ci.org/Blightwidow/CV.svg?branch=master)](https://travis-ci.org/Blightwidow/CV)
+[![Build Status](https://travis-ci.org/Blightwidow/latex-cv.svg?branch=master)](https://travis-ci.org/Blightwidow/latex-cv)
 
 My Curiculum Vitae in Latex :rocket:. Compiled result are located in the build branch.
 
